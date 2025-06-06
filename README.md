@@ -39,7 +39,7 @@
 ###
 
 <br clear="both">
-#Git record
+# Git record
 <img src="https://raw.githubusercontent.com/jucesa/jucesa/output/snake.svg" alt="Snake animation" />
 
 ###
